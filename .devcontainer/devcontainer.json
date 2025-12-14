@@ -1,0 +1,5 @@
+{
+  "name": "EEG Models",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install tensorflow mne pyriemann scikit-learn matplotlib"
+}
